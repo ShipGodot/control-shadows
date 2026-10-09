@@ -2,6 +2,6 @@
 
 ---
 
-ControlShadow is a Control node that adds soft, rounded box shadows to UI elements.
+Control Shadows is a Godot 4 addon that adds soft, rounded box shadows to UI elements.
 The shadow looks nice and is stackable so you can do fancy stuff with it.
 Made using [Evan Wallace’s “fast rounded rectangle shadows” approach](https://madebyevan.com/shaders/fast-rounded-rectangle-shadows/).
